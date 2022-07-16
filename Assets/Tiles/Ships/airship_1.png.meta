@@ -1,7 +1,271 @@
 fileFormatVersion: 2
 guid: d19191b9ed4c022419d17f7ad3c37e52
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -986214980224143392
+    second: airship_1_0
+  - first:
+      213: -314032074982092929
+    second: airship_1_1
+  - first:
+      213: 3773036972157564072
+    second: airship_1_2
+  - first:
+      213: 1907777030878781539
+    second: airship_1_3
+  - first:
+      213: 7826307304459450854
+    second: airship_1_4
+  - first:
+      213: 3819543532889739273
+    second: airship_1_5
+  - first:
+      213: -1548983157781232182
+    second: airship_1_6
+  - first:
+      213: -5165961423440209610
+    second: airship_1_7
+  - first:
+      213: -1325081873863878700
+    second: airship_1_8
+  - first:
+      213: -1328015306418325949
+    second: airship_1_9
+  - first:
+      213: -7481068654150994525
+    second: airship_1_10
+  - first:
+      213: 9196066240951763318
+    second: airship_1_11
+  - first:
+      213: 4194383807265433555
+    second: airship_1_12
+  - first:
+      213: -6374998718889639902
+    second: airship_1_13
+  - first:
+      213: -6282270890751363744
+    second: airship_1_14
+  - first:
+      213: 4923129458016811567
+    second: airship_1_15
+  - first:
+      213: -1578682202903464761
+    second: airship_1_16
+  - first:
+      213: -2126180365145533735
+    second: airship_1_17
+  - first:
+      213: -6402998030532020379
+    second: airship_1_18
+  - first:
+      213: -6460617450012585735
+    second: airship_1_19
+  - first:
+      213: -6337527401340287390
+    second: airship_1_20
+  - first:
+      213: 4357872894749282589
+    second: airship_1_21
+  - first:
+      213: 3514888066779744521
+    second: airship_1_22
+  - first:
+      213: -8748326913717114485
+    second: airship_1_23
+  - first:
+      213: 8922250471942827029
+    second: airship_1_24
+  - first:
+      213: 8631805150168458992
+    second: airship_1_25
+  - first:
+      213: -4710976942502805970
+    second: airship_1_26
+  - first:
+      213: 7410135520539894757
+    second: airship_1_27
+  - first:
+      213: 8505024826530899228
+    second: airship_1_28
+  - first:
+      213: -4212256844928980498
+    second: airship_1_29
+  - first:
+      213: -4323260751203480172
+    second: airship_1_30
+  - first:
+      213: -1471981650236663056
+    second: airship_1_31
+  - first:
+      213: 4300447626323264926
+    second: airship_1_32
+  - first:
+      213: -6669988636366949011
+    second: airship_1_33
+  - first:
+      213: -7617687110881113040
+    second: airship_1_34
+  - first:
+      213: 5072033326161305414
+    second: airship_1_35
+  - first:
+      213: 7567785837188224284
+    second: airship_1_36
+  - first:
+      213: -696448704887370856
+    second: airship_1_37
+  - first:
+      213: -6391430096933301103
+    second: airship_1_38
+  - first:
+      213: -4417413403024040829
+    second: airship_1_39
+  - first:
+      213: 8524178170220748602
+    second: airship_1_40
+  - first:
+      213: -4354468213548323555
+    second: airship_1_41
+  - first:
+      213: 5271173348506774918
+    second: airship_1_42
+  - first:
+      213: 3148485788607018776
+    second: airship_1_43
+  - first:
+      213: -5921331039340128160
+    second: airship_1_44
+  - first:
+      213: 838113980952264598
+    second: airship_1_45
+  - first:
+      213: 4437794818771451052
+    second: airship_1_46
+  - first:
+      213: -3952020466227692081
+    second: airship_1_47
+  - first:
+      213: 5115401417656791572
+    second: airship_1_48
+  - first:
+      213: 6587531001193379540
+    second: airship_1_49
+  - first:
+      213: 4641469688464991195
+    second: airship_1_50
+  - first:
+      213: 3891337650310327102
+    second: airship_1_51
+  - first:
+      213: -1524736997836389015
+    second: airship_1_52
+  - first:
+      213: 8206860057981316963
+    second: airship_1_53
+  - first:
+      213: 573793960516805615
+    second: airship_1_54
+  - first:
+      213: 9216571626156668902
+    second: airship_1_55
+  - first:
+      213: 5252736523313790162
+    second: airship_1_56
+  - first:
+      213: -8898455185014083830
+    second: airship_1_57
+  - first:
+      213: -1921704877620268719
+    second: airship_1_58
+  - first:
+      213: 296488017590624600
+    second: airship_1_59
+  - first:
+      213: -8032752816596687459
+    second: airship_1_60
+  - first:
+      213: -4561079809404138802
+    second: airship_1_61
+  - first:
+      213: -2445782439382676671
+    second: airship_1_62
+  - first:
+      213: -5853356410276846933
+    second: airship_1_63
+  - first:
+      213: -1055089722249569781
+    second: airship_1_64
+  - first:
+      213: -2308228389300202311
+    second: airship_1_65
+  - first:
+      213: -1214830166925721224
+    second: airship_1_66
+  - first:
+      213: -2254467682032789482
+    second: airship_1_67
+  - first:
+      213: -773230772449161553
+    second: airship_1_68
+  - first:
+      213: 8772942014672429580
+    second: airship_1_69
+  - first:
+      213: 5134470675575585671
+    second: airship_1_70
+  - first:
+      213: -5660122471707925888
+    second: airship_1_71
+  - first:
+      213: 2023872181094543750
+    second: airship_1_72
+  - first:
+      213: 7538967297934229398
+    second: airship_1_73
+  - first:
+      213: 1229611229407308596
+    second: airship_1_74
+  - first:
+      213: 1199347238919554471
+    second: airship_1_75
+  - first:
+      213: 6593717672942787808
+    second: airship_1_76
+  - first:
+      213: 4905444602702569284
+    second: airship_1_77
+  - first:
+      213: 8193981276359755010
+    second: airship_1_78
+  - first:
+      213: -6456985757334662983
+    second: airship_1_79
+  - first:
+      213: 6236133584300829919
+    second: airship_1_80
+  - first:
+      213: -5145509966685263991
+    second: airship_1_81
+  - first:
+      213: -1989874140773313487
+    second: airship_1_82
+  - first:
+      213: -1550015114542835250
+    second: airship_1_83
+  - first:
+      213: -2804238770001508316
+    second: airship_1_84
+  - first:
+      213: 787287347004661256
+    second: airship_1_85
+  - first:
+      213: -7596886370828272773
+    second: airship_1_86
+  - first:
+      213: 5572149945360186879
+    second: airship_1_87
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +305,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +339,285 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: airship_1_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 492
+        width: 93
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef229f53b24052f0800000000000000
+      internalID: -986214980224143392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airship_1_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 489
+        width: 93
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f0d9add7554abf0800000000000000
+      internalID: -314032074982092929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airship_1_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 486
+        width: 93
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4fdd1c2258c5430800000000000000
+      internalID: 3773036972157564072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airship_1_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 327
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360ed2c0a19c97a10800000000000000
+      internalID: 1907777030878781539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airship_1_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 324
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9b9512701ac9c60800000000000000
+      internalID: 7826307304459450854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airship_1_5
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 321
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900980a3b9eb10530800000000000000
+      internalID: 3819543532889739273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airship_1_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 162
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5036d5608e08ae0800000000000000
+      internalID: -1548983157781232182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airship_1_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 165
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6399970b471de48b0800000000000000
+      internalID: -5165961423440209610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airship_1_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 168
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7d80a6e0d5c9de0800000000000000
+      internalID: -1325081873863878700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airship_1_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 18
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34677ac6d11f19de0800000000000000
+      internalID: -1328015306418325949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airship_1_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 21
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5350902b7ed2890800000000000000
+      internalID: -7481068654150994525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airship_1_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 12
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67144e6f58dfe9f70800000000000000
+      internalID: 9196066240951763318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
